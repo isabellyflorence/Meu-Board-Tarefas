@@ -14,28 +14,6 @@ Um projeto de gerenciamento de tarefas desenvolvido em Java, permitindo criar, l
 
 ---
 
-## 📂 Estrutura do Projeto
-
-meu-board-tarefas/
-│
-├─ src/
-│ ├─ model/
-│ │ └─ Tarefa.java # Representa a entidade Tarefa
-│ ├─ repository/
-│ │ └─ TarefaRepository.java # Gerencia armazenamento e busca
-│ ├─ service/
-│ │ └─ TarefaService.java # Contém a lógica de negócio
-│ └─ Main.java # Interface com o usuário (console)
-│
-├─ README.md
-└─ pom.xml (se for Maven)
-
-yaml
-Copiar
-Editar
-
----
-
 ## ⚙️ Tecnologias Utilizadas
 
 - Java 8 ou superior
